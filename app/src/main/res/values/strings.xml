@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Resume Skill App</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+    <string name="experience">Experience:</string>
+    <string name="ability">Ability:</string>
+
+    <string name="kg">kg</string>
+    <string name="ft">ft</string>
+
+    <string name="error_inet_missing">Відсутній Інтернет!</string>
+
+</resources>
